@@ -1,0 +1,1 @@
+This is where I will be conducting my JavaScript exercises and labs. 
